@@ -1,5 +1,5 @@
 # UmbrellaHole
-Client DNS tools.
+Script to set a Windows Client to use Specified DNS servers including CloudFlare, OpenDNS, & Google.
 
 ## Use Instructions
 1. Download Script
