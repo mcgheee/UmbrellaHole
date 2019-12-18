@@ -7,6 +7,7 @@ Script to set a Windows Client to use Specified DNS servers including CloudFlare
 3. In the PowerShell window, run `Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force`
 4. Navigate to where you saved the file. Ex: `cd C:\Users\Username\Desktop\`
 5. Run command : `.\GetWet.ps1`
+6. Listen to https://www.youtube.com/watch?v=VT6LFOIofRE
 
 ## Optional Parameters
 Optional Paramters can be found by typing `.\GetWet.ps1` , and the pressing `TAB`.
