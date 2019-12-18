@@ -17,7 +17,7 @@ Get it here: https://www.microsoft.com/en-us/download/details.aspx?id=45520
 4. Click Start, navigate to PowerShell, right-click on the shortcut & select RunAs Administrator
 5. In the PowerShell window, run `Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force`
 6. Navigate to where you saved the files. Ex: `cd C:\Users\Username\Desktop\`
-7. Run command : `.\RainBarrel.ps1` - N
+7. Run command : `.\RainBarrel.ps1`
 8. Run command : `.\GetWet.ps1`
 8. Listen to https://www.youtube.com/watch?v=VT6LFOIofRE
 
