@@ -22,4 +22,4 @@ These Parameters are not necessary for use, but may be used as a shortcut to obt
 - **-ListInterfaces** - Returns a list of availalbe Network Interfaces.
   - ex: `.\GetWet.ps1 -ListInterfaces`
 - **-Reset** - Resets an interface to obtain it's DNS server from DHCP
- - ex: `.\GetWet.ps1 -SetInterfaceIndex 5 -Reset'
+  - ex: `.\GetWet.ps1 -SetInterfaceIndex 5 -Reset'
