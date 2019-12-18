@@ -2,7 +2,8 @@
 De-filter DNS on your Windows Host.
 Allows for caching local DNS entries to retain access to LAN hosts while switching DNS to a public provider.
 
-**REQUIRES WINDOWS RSAT**
+**REQUIRES WINDOWS RSAT!**
+
 Get it here: https://www.microsoft.com/en-us/download/details.aspx?id=45520
 
 ### Contents
