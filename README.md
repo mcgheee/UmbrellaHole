@@ -1,5 +1,5 @@
 # UmbrellaHole
-Script to set a Windows Client to use Specified DNS servers including CloudFlare, OpenDNS, & Google.
+Script to switch between public DNS servers on a Windows clist; including CloudFlare, OpenDNS, & Google.
 
 ## Use Instructions
 1. Download Script
