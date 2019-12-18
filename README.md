@@ -9,7 +9,8 @@ Client DNS tools.
 5. Run command : `.\GetWet.ps1`
 
 ## Optional Parameters
-Optional Paramters can be found by typing `.\GetWet.ps1` , and the pressing `TAB`
+Optional Paramters can be found by typing `.\GetWet.ps1` , and the pressing `TAB`.
+
 These Parameters are not necessary for use, but may be used as a shortcut to obtain information or to avoid interaction.
 - **-SetProvider** : Accepts a DNS Provider by name.
   - ex: `.\GetWet.ps1 -SetProvider Google` 
